@@ -1,0 +1,1936 @@
+{
+    "links": [
+        {
+            "source": "O69289",
+            "target": "Q0PC92",
+            "value": 1
+        },
+        {
+            "source": "Q0PC92",
+            "target": "O32370",
+            "value": 1
+        },
+        {
+            "source": "Q0PC92",
+            "target": "O69289",
+            "value": 1
+        },
+        {
+            "source": "Q0PC92",
+            "target": "Q0P8K6",
+            "value": 1
+        },
+        {
+            "source": "Q0PC92",
+            "target": "Q0P8M7",
+            "value": 1
+        },
+        {
+            "source": "Q0PC92",
+            "target": "Q0P9Z0",
+            "value": 1
+        },
+        {
+            "source": "Q0PC92",
+            "target": "Q0PBB8",
+            "value": 12
+        },
+        {
+            "source": "Q0PC92",
+            "target": "Q0PBH3",
+            "value": 12
+        },
+        {
+            "source": "Q0PC92",
+            "target": "Q0PC46",
+            "value": 12
+        },
+        {
+            "source": "Q0PC92",
+            "target": "Q0PC73",
+            "value": 12
+        },
+        {
+            "source": "Q0PC92",
+            "target": "Q29W30",
+            "value": 12
+        },
+        {
+            "source": "P56963",
+            "target": "Q0PAW7",
+            "value": 3
+        },
+        {
+            "source": "Q0PAW7",
+            "target": "P56963",
+            "value": 3
+        },
+        {
+            "source": "Q0PAW7",
+            "target": "P56964",
+            "value": 3
+        },
+        {
+            "source": "Q0PAW7",
+            "target": "P96747",
+            "value": 3
+        },
+        {
+            "source": "Q0PAW7",
+            "target": "Q0P7T9",
+            "value": 1
+        },
+        {
+            "source": "Q0PAW7",
+            "target": "Q0PAJ1",
+            "value": 3
+        },
+        {
+            "source": "Q0PAW7",
+            "target": "Q9PJ20",
+            "value": 3
+        },
+        {
+            "source": "P56964",
+            "target": "Q0PAW7",
+            "value": 3
+        },
+        {
+            "source": "P96747",
+            "target": "Q0PAW7",
+            "value": 3
+        },
+        {
+            "source": "P96747",
+            "target": "Q0PAW9",
+            "value": 3
+        },
+        {
+            "source": "Q0PAW9",
+            "target": "P96747",
+            "value": 3
+        },
+        {
+            "source": "Q0PAW9",
+            "target": "Q0P9Z0",
+            "value": 1
+        },
+        {
+            "source": "Q0PAW9",
+            "target": "Q9PN47",
+            "value": 1
+        },
+        {
+            "source": "Q0P7R1",
+            "target": "Q0P8K6",
+            "value": 4
+        },
+        {
+            "source": "Q0P7R1",
+            "target": "Q0PBJ0",
+            "value": 4
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P7R1",
+            "value": 4
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P7W4",
+            "value": 1
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P7X5",
+            "value": 1
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P7X9",
+            "value": 7
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P893",
+            "value": 1
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P9E8",
+            "value": 9
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P9P0",
+            "value": 5
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P9S3",
+            "value": 9
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P9U5",
+            "value": 1
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P9X3",
+            "value": 1
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P9X8",
+            "value": 1
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0P9Z2",
+            "value": 9
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0PAR8",
+            "value": 9
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0PAS1",
+            "value": 9
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0PBB8",
+            "value": 12
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0PBH3",
+            "value": 7
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0PBX0",
+            "value": 4
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0PC44",
+            "value": 4
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q0PC92",
+            "value": 1
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q46125",
+            "value": 4
+        },
+        {
+            "source": "Q0P8K6",
+            "target": "Q9PHT7",
+            "value": 4
+        },
+        {
+            "source": "Q0PBJ0",
+            "target": "Q0P7R1",
+            "value": 4
+        },
+        {
+            "source": "Q0PBJ0",
+            "target": "Q0P8K3",
+            "value": 1
+        },
+        {
+            "source": "Q0PBJ0",
+            "target": "Q0P949",
+            "value": 1
+        },
+        {
+            "source": "Q0PBJ0",
+            "target": "Q0PA14",
+            "value": 1
+        },
+        {
+            "source": "Q0PBJ0",
+            "target": "Q0PAF5",
+            "value": 1
+        },
+        {
+            "source": "Q0P7T4",
+            "target": "Q0PBI9",
+            "value": 1
+        },
+        {
+            "source": "Q0P7T4",
+            "target": "Q0PC72",
+            "value": 1
+        },
+        {
+            "source": "Q0PBI9",
+            "target": "Q0P7T4",
+            "value": 1
+        },
+        {
+            "source": "Q0PBI9",
+            "target": "Q0PBB8",
+            "value": 1
+        },
+        {
+            "source": "Q0PC72",
+            "target": "Q0P7T4",
+            "value": 1
+        },
+        {
+            "source": "Q0PC72",
+            "target": "Q0P8F1",
+            "value": 1
+        },
+        {
+            "source": "Q0PC72",
+            "target": "Q0PA13",
+            "value": 1
+        },
+        {
+            "source": "Q0P7T9",
+            "target": "O52908",
+            "value": 1
+        },
+        {
+            "source": "Q0P7T9",
+            "target": "Q0PAW7",
+            "value": 1
+        },
+        {
+            "source": "O52908",
+            "target": "Q0P7T9",
+            "value": 1
+        },
+        {
+            "source": "O52908",
+            "target": "Q0P8U4",
+            "value": 1
+        },
+        {
+            "source": "O52908",
+            "target": "Q0PBM1",
+            "value": 1
+        },
+        {
+            "source": "O52908",
+            "target": "Q0PC70",
+            "value": 1
+        },
+        {
+            "source": "Q0P7W4",
+            "target": "Q0P8K6",
+            "value": 1
+        },
+        {
+            "source": "Q0P7W4",
+            "target": "Q0PBH3",
+            "value": 5
+        },
+        {
+            "source": "Q0P7X5",
+            "target": "Q0P8K6",
+            "value": 1
+        },
+        {
+            "source": "Q0P7X9",
+            "target": "Q0P8K6",
+            "value": 7
+        },
+        {
+            "source": "Q0P7Y0",
+            "target": "Q0PBH3",
+            "value": 7
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0P7R7",
+            "value": 1
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0P7W4",
+            "value": 5
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0P7Y0",
+            "value": 7
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0P8K6",
+            "value": 7
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0P900",
+            "value": 7
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0P9G0",
+            "value": 7
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0P9P0",
+            "value": 5
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0P9X3",
+            "value": 5
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0PA93",
+            "value": 8
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0PAR8",
+            "value": 5
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0PBC0",
+            "value": 5
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q0PC92",
+            "value": 12
+        },
+        {
+            "source": "Q0PBH3",
+            "target": "Q46118",
+            "value": 7
+        },
+        {
+            "source": "Q0P893",
+            "target": "Q0P8K6",
+            "value": 1
+        },
+        {
+            "source": "Q0P8E9",
+            "target": "Q0P8F0",
+            "value": 1
+        },
+        {
+            "source": "Q0P8E9",
+            "target": "Q0P8W0",
+            "value": 8
+        },
+        {
+            "source": "Q0P8E9",
+            "target": "Q0P9P8",
+            "value": 8
+        },
+        {
+            "source": "Q0P8E9",
+            "target": "Q0PA93",
+            "value": 8
+        },
+        {
+            "source": "Q0P8E9",
+            "target": "Q0PAA2",
+            "value": 8
+        },
+        {
+            "source": "Q0P8E9",
+            "target": "Q9PHN0",
+            "value": 8
+        },
+        {
+            "source": "Q0P8F0",
+            "target": "Q0P8E9",
+            "value": 1
+        },
+        {
+            "source": "Q0P9P8",
+            "target": "Q0P8E9",
+            "value": 8
+        },
+        {
+            "source": "Q0P9P8",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0PA93",
+            "target": "Q0P8E9",
+            "value": 8
+        },
+        {
+            "source": "Q0PA93",
+            "target": "Q0P977",
+            "value": 1
+        },
+        {
+            "source": "Q0PA93",
+            "target": "Q0PBH3",
+            "value": 8
+        },
+        {
+            "source": "Q0PA93",
+            "target": "Q9PHY8",
+            "value": 1
+        },
+        {
+            "source": "Q0PAA2",
+            "target": "Q0P8E9",
+            "value": 8
+        },
+        {
+            "source": "Q0P8F1",
+            "target": "Q0PC72",
+            "value": 1
+        },
+        {
+            "source": "Q0P8K3",
+            "target": "Q0PBJ0",
+            "value": 1
+        },
+        {
+            "source": "Q9PHT7",
+            "target": "Q0P8K6",
+            "value": 4
+        },
+        {
+            "source": "Q0P8U4",
+            "target": "O52908",
+            "value": 1
+        },
+        {
+            "source": "Q0P8W0",
+            "target": "Q0P8E9",
+            "value": 8
+        },
+        {
+            "source": "Q0P911",
+            "target": "Q9PMJ8",
+            "value": 1
+        },
+        {
+            "source": "Q9PMJ8",
+            "target": "Q0P911",
+            "value": 1
+        },
+        {
+            "source": "Q9PMJ8",
+            "target": "Q7BC48",
+            "value": 1
+        },
+        {
+            "source": "Q0P949",
+            "target": "Q0PBJ0",
+            "value": 1
+        },
+        {
+            "source": "Q0P977",
+            "target": "Q0PA93",
+            "value": 1
+        },
+        {
+            "source": "Q0P977",
+            "target": "Q9PM34",
+            "value": 1
+        },
+        {
+            "source": "Q0P9E8",
+            "target": "Q0P8K6",
+            "value": 9
+        },
+        {
+            "source": "Q0P9G0",
+            "target": "Q0PBH3",
+            "value": 7
+        },
+        {
+            "source": "Q0P9G0",
+            "target": "Q0PBH4",
+            "value": 1
+        },
+        {
+            "source": "Q0PBH4",
+            "target": "Q0P9G0",
+            "value": 1
+        },
+        {
+            "source": "Q0P9N8",
+            "target": "Q0PC73",
+            "value": 1
+        },
+        {
+            "source": "Q0PC73",
+            "target": "Q0P9N8",
+            "value": 1
+        },
+        {
+            "source": "Q0PC73",
+            "target": "Q0PA35",
+            "value": 11
+        },
+        {
+            "source": "Q0PC73",
+            "target": "Q0PAU2",
+            "value": 11
+        },
+        {
+            "source": "Q0PC73",
+            "target": "Q0PBB8",
+            "value": 11
+        },
+        {
+            "source": "Q0PC73",
+            "target": "Q0PBE3",
+            "value": 11
+        },
+        {
+            "source": "Q0PC73",
+            "target": "Q0PC92",
+            "value": 12
+        },
+        {
+            "source": "Q0PC73",
+            "target": "Q46121",
+            "value": 11
+        },
+        {
+            "source": "Q0P9P0",
+            "target": "Q0P8K6",
+            "value": 5
+        },
+        {
+            "source": "Q0P9P0",
+            "target": "Q0PBH3",
+            "value": 5
+        },
+        {
+            "source": "Q0P9S2",
+            "target": "Q9PHW6",
+            "value": 1
+        },
+        {
+            "source": "Q9PHW6",
+            "target": "Q0P9S2",
+            "value": 1
+        },
+        {
+            "source": "Q0P9S3",
+            "target": "Q0P8K6",
+            "value": 9
+        },
+        {
+            "source": "Q0P9U5",
+            "target": "Q0P8K6",
+            "value": 1
+        },
+        {
+            "source": "Q0P9X3",
+            "target": "Q0P8K6",
+            "value": 1
+        },
+        {
+            "source": "Q0P9X3",
+            "target": "Q0PBH3",
+            "value": 5
+        },
+        {
+            "source": "Q0P9X8",
+            "target": "Q0P8K6",
+            "value": 1
+        },
+        {
+            "source": "Q0P9Z0",
+            "target": "Q0PAW9",
+            "value": 1
+        },
+        {
+            "source": "Q0P9Z0",
+            "target": "Q0PC92",
+            "value": 1
+        },
+        {
+            "source": "Q0P9Z2",
+            "target": "Q0P8K6",
+            "value": 9
+        },
+        {
+            "source": "Q0P9Z2",
+            "target": "Q0PC74",
+            "value": 9
+        },
+        {
+            "source": "Q0PA13",
+            "target": "Q0PC72",
+            "value": 1
+        },
+        {
+            "source": "Q0PA14",
+            "target": "Q0PBJ0",
+            "value": 1
+        },
+        {
+            "source": "Q0PA35",
+            "target": "Q0PC73",
+            "value": 11
+        },
+        {
+            "source": "Q0PA97",
+            "target": "Q9PHY8",
+            "value": 1
+        },
+        {
+            "source": "Q9PHY8",
+            "target": "Q0PA93",
+            "value": 1
+        },
+        {
+            "source": "Q9PHY8",
+            "target": "Q0PA97",
+            "value": 1
+        },
+        {
+            "source": "Q0PAF5",
+            "target": "Q0PBJ0",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "A6MYZ8",
+            "value": 2
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P7W7",
+            "value": 2
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P7W9",
+            "value": 6
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P862",
+            "value": 6
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P925",
+            "value": 6
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P964",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P966",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P9A8",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P9D3",
+            "value": 6
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P9L8",
+            "value": 6
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0P9P8",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0PA89",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0PA95",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0PAA1",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0PAW3",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0PAY0",
+            "value": 2
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0PBP9",
+            "value": 2
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0PC53",
+            "value": 2
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q0PCA0",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q7BP23",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI2",
+            "target": "Q9PI72",
+            "value": 1
+        },
+        {
+            "source": "A6MYZ8",
+            "target": "Q0PAI2",
+            "value": 2
+        },
+        {
+            "source": "Q0P7W7",
+            "target": "Q0PAI2",
+            "value": 2
+        },
+        {
+            "source": "Q0P7W9",
+            "target": "Q0PAI2",
+            "value": 6
+        },
+        {
+            "source": "Q0P862",
+            "target": "Q0PAI2",
+            "value": 6
+        },
+        {
+            "source": "Q0P862",
+            "target": "Q0PC81",
+            "value": 6
+        },
+        {
+            "source": "Q0P925",
+            "target": "Q0PAI2",
+            "value": 6
+        },
+        {
+            "source": "Q0P964",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0P966",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0P9A8",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0P9D3",
+            "target": "Q0PAI2",
+            "value": 6
+        },
+        {
+            "source": "Q0P9L8",
+            "target": "Q0PAI2",
+            "value": 6
+        },
+        {
+            "source": "Q0PA89",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0PA95",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0PAA1",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0PAW3",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0PBP9",
+            "target": "Q0PAI2",
+            "value": 2
+        },
+        {
+            "source": "Q0PC53",
+            "target": "Q0PAI2",
+            "value": 2
+        },
+        {
+            "source": "Q0PC53",
+            "target": "Q9PPM0",
+            "value": 2
+        },
+        {
+            "source": "Q0PCA0",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q7BP23",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q9PI72",
+            "target": "Q0PAI2",
+            "value": 1
+        },
+        {
+            "source": "Q0PAJ1",
+            "target": "Q0PAW7",
+            "value": 3
+        },
+        {
+            "source": "Q0PAR8",
+            "target": "Q0P8K6",
+            "value": 9
+        },
+        {
+            "source": "Q0PAR8",
+            "target": "Q0PBH3",
+            "value": 5
+        },
+        {
+            "source": "Q0PAS1",
+            "target": "Q0P8K6",
+            "value": 9
+        },
+        {
+            "source": "Q0PAU2",
+            "target": "Q0PC73",
+            "value": 11
+        },
+        {
+            "source": "Q9PN47",
+            "target": "Q0PAW9",
+            "value": 1
+        },
+        {
+            "source": "Q0PAY0",
+            "target": "Q0PAI2",
+            "value": 2
+        },
+        {
+            "source": "Q0PAY9",
+            "target": "Q0P9H5",
+            "value": 1
+        },
+        {
+            "source": "Q0PAY9",
+            "target": "Q0P9M7",
+            "value": 10
+        },
+        {
+            "source": "Q0PAY9",
+            "target": "Q0PAZ5",
+            "value": 10
+        },
+        {
+            "source": "Q0PAY9",
+            "target": "Q0PBB8",
+            "value": 10
+        },
+        {
+            "source": "Q0PAY9",
+            "target": "Q29W30",
+            "value": 1
+        },
+        {
+            "source": "Q0PAY9",
+            "target": "Q9PIC8",
+            "value": 10
+        },
+        {
+            "source": "Q0PAY9",
+            "target": "Q9PM75",
+            "value": 10
+        },
+        {
+            "source": "Q0P9H5",
+            "target": "Q0PAY9",
+            "value": 1
+        },
+        {
+            "source": "Q0P9M7",
+            "target": "Q0PAY9",
+            "value": 10
+        },
+        {
+            "source": "Q0PAZ5",
+            "target": "Q0PAY9",
+            "value": 10
+        },
+        {
+            "source": "Q29W30",
+            "target": "Q0PAY9",
+            "value": 1
+        },
+        {
+            "source": "Q29W30",
+            "target": "Q0PC92",
+            "value": 12
+        },
+        {
+            "source": "Q9PIC8",
+            "target": "Q0PAY9",
+            "value": 10
+        },
+        {
+            "source": "Q9PM75",
+            "target": "Q0PAY9",
+            "value": 10
+        },
+        {
+            "source": "Q0PBB8",
+            "target": "O32370",
+            "value": 10
+        },
+        {
+            "source": "Q0PBB8",
+            "target": "Q0P8K6",
+            "value": 12
+        },
+        {
+            "source": "Q0PBB8",
+            "target": "Q0PAY9",
+            "value": 10
+        },
+        {
+            "source": "Q0PBB8",
+            "target": "Q0PBI9",
+            "value": 1
+        },
+        {
+            "source": "Q0PBB8",
+            "target": "Q0PC73",
+            "value": 11
+        },
+        {
+            "source": "Q0PBB8",
+            "target": "Q0PC92",
+            "value": 12
+        },
+        {
+            "source": "O32370",
+            "target": "Q0PBB8",
+            "value": 10
+        },
+        {
+            "source": "O32370",
+            "target": "Q0PC92",
+            "value": 1
+        },
+        {
+            "source": "O32370",
+            "target": "Q9PM68",
+            "value": 1
+        },
+        {
+            "source": "Q0P7R7",
+            "target": "Q0PBH3",
+            "value": 1
+        },
+        {
+            "source": "Q0P900",
+            "target": "Q0PBH3",
+            "value": 7
+        },
+        {
+            "source": "Q0PBC0",
+            "target": "Q0PBH3",
+            "value": 5
+        },
+        {
+            "source": "Q46118",
+            "target": "Q0PBH3",
+            "value": 7
+        },
+        {
+            "source": "Q0PBM1",
+            "target": "O52908",
+            "value": 1
+        },
+        {
+            "source": "Q0PBM1",
+            "target": "Q0PAY8",
+            "value": 1
+        },
+        {
+            "source": "Q0PAY8",
+            "target": "Q0PBM1",
+            "value": 1
+        },
+        {
+            "source": "Q0PBX0",
+            "target": "Q0P8K6",
+            "value": 4
+        },
+        {
+            "source": "Q0PBX4",
+            "target": "Q0PBH2",
+            "value": 1
+        },
+        {
+            "source": "Q0PBH2",
+            "target": "Q0PBX4",
+            "value": 1
+        },
+        {
+            "source": "Q0PC44",
+            "target": "Q0P8K6",
+            "value": 4
+        },
+        {
+            "source": "Q0PC46",
+            "target": "Q0PC92",
+            "value": 12
+        },
+        {
+            "source": "Q9PPM0",
+            "target": "Q0PC53",
+            "value": 2
+        },
+        {
+            "source": "Q0PC70",
+            "target": "O52908",
+            "value": 1
+        },
+        {
+            "source": "Q0PBE3",
+            "target": "Q0PC73",
+            "value": 11
+        },
+        {
+            "source": "Q0PC74",
+            "target": "Q0P9Z2",
+            "value": 9
+        },
+        {
+            "source": "Q0PC75",
+            "target": "Q0P9F4",
+            "value": 1
+        },
+        {
+            "source": "Q0P9F4",
+            "target": "Q0PC75",
+            "value": 1
+        },
+        {
+            "source": "Q0PC76",
+            "target": "Q0P967",
+            "value": 1
+        },
+        {
+            "source": "Q0P967",
+            "target": "Q0PC76",
+            "value": 1
+        },
+        {
+            "source": "Q0PC77",
+            "target": "Q0PBH0",
+            "value": 1
+        },
+        {
+            "source": "Q0PC77",
+            "target": "Q0PC83",
+            "value": 1
+        },
+        {
+            "source": "Q0PBH0",
+            "target": "Q0PC77",
+            "value": 1
+        },
+        {
+            "source": "Q0PC78",
+            "target": "Q0P8R7",
+            "value": 1
+        },
+        {
+            "source": "Q0P8R7",
+            "target": "Q0PC78",
+            "value": 1
+        },
+        {
+            "source": "Q0PC79",
+            "target": "Q9PNQ6",
+            "value": 1
+        },
+        {
+            "source": "Q9PNQ6",
+            "target": "Q0PC79",
+            "value": 1
+        },
+        {
+            "source": "Q0PC81",
+            "target": "Q0P862",
+            "value": 6
+        },
+        {
+            "source": "Q0PC82",
+            "target": "Q0PA61",
+            "value": 1
+        },
+        {
+            "source": "Q0PA61",
+            "target": "Q0PC82",
+            "value": 1
+        },
+        {
+            "source": "Q0PC83",
+            "target": "Q0PC77",
+            "value": 1
+        },
+        {
+            "source": "Q0PC84",
+            "target": "Q0P7Z6",
+            "value": 1
+        },
+        {
+            "source": "Q0PC84",
+            "target": "Q46121",
+            "value": 11
+        },
+        {
+            "source": "Q0P7Z6",
+            "target": "Q0PC84",
+            "value": 1
+        },
+        {
+            "source": "Q0PC85",
+            "target": "Q0PB51",
+            "value": 1
+        },
+        {
+            "source": "Q0PB51",
+            "target": "Q0PC85",
+            "value": 1
+        },
+        {
+            "source": "Q0PC86",
+            "target": "Q0P7Y1",
+            "value": 1
+        },
+        {
+            "source": "Q0P7Y1",
+            "target": "Q0PC86",
+            "value": 1
+        },
+        {
+            "source": "Q0PC88",
+            "target": "Q0P8U6",
+            "value": 1
+        },
+        {
+            "source": "Q0P8U6",
+            "target": "Q0PC88",
+            "value": 1
+        },
+        {
+            "source": "Q0PC90",
+            "target": "Q0PAL9",
+            "value": 1
+        },
+        {
+            "source": "Q0PAL9",
+            "target": "Q0PC90",
+            "value": 1
+        },
+        {
+            "source": "Q0PC91",
+            "target": "Q0PB30",
+            "value": 1
+        },
+        {
+            "source": "Q0PB30",
+            "target": "Q0PC91",
+            "value": 1
+        },
+        {
+            "source": "Q0P8M7",
+            "target": "Q0PC92",
+            "value": 1
+        },
+        {
+            "source": "Q46121",
+            "target": "Q0PC73",
+            "value": 11
+        },
+        {
+            "source": "Q46121",
+            "target": "Q0PC84",
+            "value": 11
+        },
+        {
+            "source": "Q46125",
+            "target": "Q0P8K6",
+            "value": 4
+        },
+        {
+            "source": "Q9PHN0",
+            "target": "Q0P8E9",
+            "value": 8
+        },
+        {
+            "source": "Q9PJ20",
+            "target": "Q0PAW7",
+            "value": 3
+        },
+        {
+            "source": "Q9PJ66",
+            "target": "Q0P8T4",
+            "value": 1
+        },
+        {
+            "source": "Q0P8T4",
+            "target": "Q9PJ66",
+            "value": 1
+        },
+        {
+            "source": "Q9PM34",
+            "target": "Q0P977",
+            "value": 1
+        },
+        {
+            "source": "Q9PM68",
+            "target": "O32370",
+            "value": 1
+        },
+        {
+            "source": "Q7BC48",
+            "target": "Q9PMJ8",
+            "value": 1
+        },
+        {
+            "source": "Q9PN98",
+            "target": "Q0PAI1",
+            "value": 1
+        },
+        {
+            "source": "Q0PAI1",
+            "target": "Q9PN98",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "color": 1,
+            "id": "O69289"
+        },
+        {
+            "color": 12,
+            "id": "Q0PC92"
+        },
+        {
+            "color": 3,
+            "id": "P56963"
+        },
+        {
+            "color": 3,
+            "id": "Q0PAW7"
+        },
+        {
+            "color": 3,
+            "id": "P56964"
+        },
+        {
+            "color": 3,
+            "id": "P96747"
+        },
+        {
+            "color": 3,
+            "id": "Q0PAW9"
+        },
+        {
+            "color": 4,
+            "id": "Q0P7R1"
+        },
+        {
+            "color": 12,
+            "id": "Q0P8K6"
+        },
+        {
+            "color": 4,
+            "id": "Q0PBJ0"
+        },
+        {
+            "color": 1,
+            "id": "Q0P7T4"
+        },
+        {
+            "color": 1,
+            "id": "Q0PBI9"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC72"
+        },
+        {
+            "color": 1,
+            "id": "Q0P7T9"
+        },
+        {
+            "color": 1,
+            "id": "O52908"
+        },
+        {
+            "color": 5,
+            "id": "Q0P7W4"
+        },
+        {
+            "color": 1,
+            "id": "Q0P7X5"
+        },
+        {
+            "color": 7,
+            "id": "Q0P7X9"
+        },
+        {
+            "color": 7,
+            "id": "Q0P7Y0"
+        },
+        {
+            "color": 12,
+            "id": "Q0PBH3"
+        },
+        {
+            "color": 1,
+            "id": "Q0P893"
+        },
+        {
+            "color": 8,
+            "id": "Q0P8E9"
+        },
+        {
+            "color": 1,
+            "id": "Q0P8F0"
+        },
+        {
+            "color": 8,
+            "id": "Q0P9P8"
+        },
+        {
+            "color": 8,
+            "id": "Q0PA93"
+        },
+        {
+            "color": 8,
+            "id": "Q0PAA2"
+        },
+        {
+            "color": 1,
+            "id": "Q0P8F1"
+        },
+        {
+            "color": 1,
+            "id": "Q0P8K3"
+        },
+        {
+            "color": 4,
+            "id": "Q9PHT7"
+        },
+        {
+            "color": 1,
+            "id": "Q0P8U4"
+        },
+        {
+            "color": 8,
+            "id": "Q0P8W0"
+        },
+        {
+            "color": 1,
+            "id": "Q0P911"
+        },
+        {
+            "color": 1,
+            "id": "Q9PMJ8"
+        },
+        {
+            "color": 1,
+            "id": "Q0P949"
+        },
+        {
+            "color": 1,
+            "id": "Q0P977"
+        },
+        {
+            "color": 9,
+            "id": "Q0P9E8"
+        },
+        {
+            "color": 7,
+            "id": "Q0P9G0"
+        },
+        {
+            "color": 1,
+            "id": "Q0PBH4"
+        },
+        {
+            "color": 1,
+            "id": "Q0P9N8"
+        },
+        {
+            "color": 12,
+            "id": "Q0PC73"
+        },
+        {
+            "color": 5,
+            "id": "Q0P9P0"
+        },
+        {
+            "color": 1,
+            "id": "Q0P9S2"
+        },
+        {
+            "color": 1,
+            "id": "Q9PHW6"
+        },
+        {
+            "color": 9,
+            "id": "Q0P9S3"
+        },
+        {
+            "color": 1,
+            "id": "Q0P9U5"
+        },
+        {
+            "color": 5,
+            "id": "Q0P9X3"
+        },
+        {
+            "color": 1,
+            "id": "Q0P9X8"
+        },
+        {
+            "color": 1,
+            "id": "Q0P9Z0"
+        },
+        {
+            "color": 9,
+            "id": "Q0P9Z2"
+        },
+        {
+            "color": 1,
+            "id": "Q0PA13"
+        },
+        {
+            "color": 1,
+            "id": "Q0PA14"
+        },
+        {
+            "color": 11,
+            "id": "Q0PA35"
+        },
+        {
+            "color": 1,
+            "id": "Q0PA97"
+        },
+        {
+            "color": 1,
+            "id": "Q9PHY8"
+        },
+        {
+            "color": 1,
+            "id": "Q0PAF5"
+        },
+        {
+            "color": 6,
+            "id": "Q0PAI2"
+        },
+        {
+            "color": 2,
+            "id": "A6MYZ8"
+        },
+        {
+            "color": 2,
+            "id": "Q0P7W7"
+        },
+        {
+            "color": 6,
+            "id": "Q0P7W9"
+        },
+        {
+            "color": 6,
+            "id": "Q0P862"
+        },
+        {
+            "color": 6,
+            "id": "Q0P925"
+        },
+        {
+            "color": 1,
+            "id": "Q0P964"
+        },
+        {
+            "color": 1,
+            "id": "Q0P966"
+        },
+        {
+            "color": 1,
+            "id": "Q0P9A8"
+        },
+        {
+            "color": 6,
+            "id": "Q0P9D3"
+        },
+        {
+            "color": 6,
+            "id": "Q0P9L8"
+        },
+        {
+            "color": 1,
+            "id": "Q0PA89"
+        },
+        {
+            "color": 1,
+            "id": "Q0PA95"
+        },
+        {
+            "color": 1,
+            "id": "Q0PAA1"
+        },
+        {
+            "color": 1,
+            "id": "Q0PAW3"
+        },
+        {
+            "color": 2,
+            "id": "Q0PBP9"
+        },
+        {
+            "color": 2,
+            "id": "Q0PC53"
+        },
+        {
+            "color": 1,
+            "id": "Q0PCA0"
+        },
+        {
+            "color": 1,
+            "id": "Q7BP23"
+        },
+        {
+            "color": 1,
+            "id": "Q9PI72"
+        },
+        {
+            "color": 3,
+            "id": "Q0PAJ1"
+        },
+        {
+            "color": 9,
+            "id": "Q0PAR8"
+        },
+        {
+            "color": 9,
+            "id": "Q0PAS1"
+        },
+        {
+            "color": 11,
+            "id": "Q0PAU2"
+        },
+        {
+            "color": 1,
+            "id": "Q9PN47"
+        },
+        {
+            "color": 2,
+            "id": "Q0PAY0"
+        },
+        {
+            "color": 10,
+            "id": "Q0PAY9"
+        },
+        {
+            "color": 1,
+            "id": "Q0P9H5"
+        },
+        {
+            "color": 10,
+            "id": "Q0P9M7"
+        },
+        {
+            "color": 10,
+            "id": "Q0PAZ5"
+        },
+        {
+            "color": 12,
+            "id": "Q29W30"
+        },
+        {
+            "color": 10,
+            "id": "Q9PIC8"
+        },
+        {
+            "color": 10,
+            "id": "Q9PM75"
+        },
+        {
+            "color": 12,
+            "id": "Q0PBB8"
+        },
+        {
+            "color": 10,
+            "id": "O32370"
+        },
+        {
+            "color": 1,
+            "id": "Q0P7R7"
+        },
+        {
+            "color": 7,
+            "id": "Q0P900"
+        },
+        {
+            "color": 5,
+            "id": "Q0PBC0"
+        },
+        {
+            "color": 7,
+            "id": "Q46118"
+        },
+        {
+            "color": 1,
+            "id": "Q0PBM1"
+        },
+        {
+            "color": 1,
+            "id": "Q0PAY8"
+        },
+        {
+            "color": 4,
+            "id": "Q0PBX0"
+        },
+        {
+            "color": 1,
+            "id": "Q0PBX4"
+        },
+        {
+            "color": 1,
+            "id": "Q0PBH2"
+        },
+        {
+            "color": 4,
+            "id": "Q0PC44"
+        },
+        {
+            "color": 12,
+            "id": "Q0PC46"
+        },
+        {
+            "color": 2,
+            "id": "Q9PPM0"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC70"
+        },
+        {
+            "color": 11,
+            "id": "Q0PBE3"
+        },
+        {
+            "color": 9,
+            "id": "Q0PC74"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC75"
+        },
+        {
+            "color": 1,
+            "id": "Q0P9F4"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC76"
+        },
+        {
+            "color": 1,
+            "id": "Q0P967"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC77"
+        },
+        {
+            "color": 1,
+            "id": "Q0PBH0"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC78"
+        },
+        {
+            "color": 1,
+            "id": "Q0P8R7"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC79"
+        },
+        {
+            "color": 1,
+            "id": "Q9PNQ6"
+        },
+        {
+            "color": 6,
+            "id": "Q0PC81"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC82"
+        },
+        {
+            "color": 1,
+            "id": "Q0PA61"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC83"
+        },
+        {
+            "color": 11,
+            "id": "Q0PC84"
+        },
+        {
+            "color": 1,
+            "id": "Q0P7Z6"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC85"
+        },
+        {
+            "color": 1,
+            "id": "Q0PB51"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC86"
+        },
+        {
+            "color": 1,
+            "id": "Q0P7Y1"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC88"
+        },
+        {
+            "color": 1,
+            "id": "Q0P8U6"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC90"
+        },
+        {
+            "color": 1,
+            "id": "Q0PAL9"
+        },
+        {
+            "color": 1,
+            "id": "Q0PC91"
+        },
+        {
+            "color": 1,
+            "id": "Q0PB30"
+        },
+        {
+            "color": 1,
+            "id": "Q0P8M7"
+        },
+        {
+            "color": 11,
+            "id": "Q46121"
+        },
+        {
+            "color": 4,
+            "id": "Q46125"
+        },
+        {
+            "color": 8,
+            "id": "Q9PHN0"
+        },
+        {
+            "color": 3,
+            "id": "Q9PJ20"
+        },
+        {
+            "color": 1,
+            "id": "Q9PJ66"
+        },
+        {
+            "color": 1,
+            "id": "Q0P8T4"
+        },
+        {
+            "color": 1,
+            "id": "Q9PM34"
+        },
+        {
+            "color": 1,
+            "id": "Q9PM68"
+        },
+        {
+            "color": 1,
+            "id": "Q7BC48"
+        },
+        {
+            "color": 1,
+            "id": "Q9PN98"
+        },
+        {
+            "color": 1,
+            "id": "Q0PAI1"
+        }
+    ],
+    "specs": {
+        "graphComps": 17,
+        "graphOrder": 143,
+        "graphSize": 135,
+        "patternFreq": 11,
+        "patternOrder": 7,
+        "patternSize": 6
+    }
+}

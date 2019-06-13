@@ -1,0 +1,86 @@
+<!-- Visulazation V0.9  17 Sep 2017 -->
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="Visualization-Files/styles.css">
+<title> Visualization </title>
+
+<div class="aligner">
+  <svg width="1050" height="780"></svg>
+  <div class="flex-container">
+    <div style="display: flex;">
+      <div class="block">
+        <label class="titleBold">Network Details</label>
+        <br><br>
+        <label class="label-width">Order:</label><label id="graphOrder"></label>
+        <br>
+        <label class="label-width">Size:</label><label id="graphSize"></label>
+        <br>
+        <label class="label-width">Components:</label><label id="graphComps"></label>
+      </div>
+      <div class="block" style="margin-left: 40px;">
+        <label class="titleBold">Pattern Details</label>
+        <br><br>
+        <label class="label-width">Order:</label><label id="patternOrder"></label>
+        <br>
+        <label class="label-width">Size:</label><label id="patternSize"></label>
+        <br>
+        <label class="label-width">Frequency:</label><label id="patternFreq"></label>
+      </div>
+    </div>
+    <div class="block">
+      <label class="titleBold">Settings</label>
+      <br><br>
+      <div class="slider-block" id="chargeBlock">
+        <label class="label-width">Node Charge</label>
+        <input class="range-slider__range" id="chargeINPUT" type="range" min="-200" max="100" step="1" value="-40">
+        <label class="range-slider__value" id="chargeVALUE">-40</label>
+      </div>
+      <div class="slider-block" id="linkStrBlock">
+        <label class="label-width">Link Strength</label>
+        <input class="range-slider__range" id="linkStrINPUT" type="range" min="0.05" max="2" step="0.05" value="0.4">
+        <label class="range-slider__value" id="linkStrVALUE">0.40</label>
+      </div>
+      <div class="slider-block">
+        <label class="label-width">Node Radius</label>
+        <input class="range-slider__range" id="nodeRadINPUT" type="range" min="2" max="10" step="0.2" value="5">
+        <label class="range-slider__value" id="nodeRadVALUE">5</label>
+      </div>
+      <div class="slider-block">
+        <label class="label-width">Link Width</label>
+        <input class="range-slider__range" id="linkWidthINPUT" type="range" min="0.1" max="5" step="0.1" value="1">
+        <label class="range-slider__value" id="linkWidthVALUE">1</label>
+      </div>
+      <div class="slider-block" id="veloDecayBlock">
+        <label class="label-width">Velocity Decay</label>
+        <input class="range-slider__range" id="veloDecayINPUT" type="range" min="0" max="1" step="0.05" value="0.25">
+        <label class="range-slider__value" id="veloDecayVALUE">0.25</label>
+      </div>
+      <div class="slider-block" id="centerGravityBlock">
+        <label class="label-width">Center Gravity</label>
+        <input class="range-slider__range" id="centerGravityINPUT" type="range" min="0" max="0.5" step="0.02" value="0">
+        <label class="range-slider__value" id="centerGravityVALUE">0</label>
+      </div>
+      <button class="button btn-blue" id="zoomButton" style="outline: none;">Zoom Function</button>
+      <button class="button btn-black" id="fisheyeButton" style="outline: none;">FishEye Distortion</button>
+      <button class="button btn-violet" id="pinButton" style="outline: none;">Pin on Drop</button>
+      <label id="flipSwitch" class="switch switch-flat">
+        <input class="switch-input" id="toggleForce" type="checkbox"/>
+        <span class="switch-label" id="forceLabel", data-on="Force" data-off="Static"></span> 
+        <span class="switch-handle" id="forceHandle"></span> 
+      </label>
+    </div>
+    <div class="block" id="info">
+      <label id="infoTitle">About</label>
+      <!-- <div id="aaShorts" style="font-size:2em;color:lightsteelblue;margin-top:-10px;">Cys , C</div>
+      <div id="aaMassAndOccurrence" style="font-size:1.4em;padding-left:2px;color:lightslategray;">103.1388 Da | 1.9%</div>
+      <div id="aaCodons" style="font-size:0.9em;padding-left:2px;color:lightslategray;">UGU, UGC</div> -->
+      <label id="infoDef">This visualization tool is part of the "Motifs In Biological Networks" project implementation.<br><br><span style="font-weight: bold;">Copyright © 2017 Nima Sarang</span></label>
+    </div>
+  </div>
+</div>
+
+<script src="Visualization-Files/d3.v4.min.js"></script>
+<script src="Visualization-Files/fisheye.js"></script>
+<script src="Visualization-Files/force.js"></script>
