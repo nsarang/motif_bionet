@@ -31,8 +31,8 @@ motifnet <inp_path> <out_path> <alpha> <mu>
 `motifnet data/cje.txt output/motif 7 5`
   
 ## Dataset
-A real and synthetic dataset is provided by the [Bioinformatics Lab @ UF](http://bioinformatics.cise.ufl.edu)  
-  
+A real and synthetic dataset is provided by the [Bioinformatics Lab @ UF](http://bioinformatics.cise.ufl.edu/code/nm-data.zip)  
+<br />  
 ## Visualization
 A interactive visulization tool is provided using d3.js library. Here the steps to make it work:
 1. Put the JSON file in the **output** directory by the name **motif.json**
