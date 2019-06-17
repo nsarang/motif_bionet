@@ -61,7 +61,7 @@ int main(int argc, const char * argv[])
     for (int i = 0; i < 4; ++i)
         cout << "M" + to_string(i + 1) + ":\t" << vecBPS[i].size() << endl;
 
-    cout << "\nBasic patterns extracted...\n\n\n";
+    cout << "\nBasic patterns extracted...\n\n";
 
 
 
@@ -153,7 +153,7 @@ int main(int argc, const char * argv[])
         }
 
     cout.precision(5);
-    cout << "\n\nFinished...\nTotal running time: " << clock.elapsedTime() << " seconds.\n";
+    cout << "\nFinished...\nTotal running time: " << clock.elapsedTime() << " seconds.\n";
     cout << "Max motif frequency: " << maxSize << "\n";
 
 
