@@ -1,7 +1,7 @@
 # Identifying Motifs in Biological Networks
 
 ## Overview
-This repo provides an implementation of the paper [Identification of large disjoint motifs in biological networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1271-7).  
+This repo is based on an implementation of the paper [Identification of large disjoint motifs in biological networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1271-7).  
 Biological networks provide great potential to understand how cells function. Network motifs, frequent topological patterns, are key structures through which biological networks operate. Finding motifs in biological networks remains to be computationally challenging task as the size of the motif and the underlying network grow. Often, different copies of a given motif topology in a network share nodes or edges. Counting such overlapping copies introduces significant problems in motif identification.
 
 ## Citation
