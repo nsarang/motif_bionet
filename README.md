@@ -5,7 +5,7 @@ This repo provides an implementation of the paper [Identification of large disjo
 Biological networks provide great potential to understand how cells function. Network motifs, frequent topological patterns, are key structures through which biological networks operate. Finding motifs in biological networks remains to be computationally challenging task as the size of the motif and the underlying network grow. Often, different copies of a given motif topology in a network share nodes or edges. Counting such overlapping copies introduces significant problems in motif identification.
 
 ## Citation
-> Elhesha R, Kahveci T. Identification of large disjoint motifs in biological networks. BMC Bioinformatics. 2016;17(1):408.
+> Elhesha R, Kahveci T. Identification of large disjoint motifs in biological networks. BMC Bioinformatics. 2016;17(1):408.  
   
 ## Installation
 ```bash
@@ -17,8 +17,8 @@ make
 ## Usage  
 The input file is the representation of a biological network in the format of its edge list. The output is a TXT file, summarizing results. A JSON is also created for visualization porpuses.  
 
-```
-motifnet <inp_path> <out_path> <alpha> <mu>  
+```bash
+motifnet <inp_path> <out_path> <alpha> <mu>
 ```
 <pre>
     &lt;inp_path>    Path to the biological network 
@@ -30,10 +30,18 @@ motifnet <inp_path> <out_path> <alpha> <mu>
 **Example**:  
 `motifnet data/cje.txt output/motif 7 5`
   
+## Dataset
+A real and synthetic dataset is provided by the [Bioinformatics Lab @ UF](http://bioinformatics.cise.ufl.edu)  
+  
 ## Visualization
 A interactive visulization tool is provided using d3.js library. Here the steps to make it work:
 1. Put the JSON file in the **output** directory by the name **motif.json**
 2. Start the python HTTP server. `python output/server.py`
 3. Go to the `localhost:9999` address using your favorite browser (Chrome recommended)
 
-## Screenshots
+## Screenshots  
+![](screenshots/2.png)  
+![](screenshots/4.png)  
+![](screenshots/3.png)  
+![](screenshots/1.png)  
+
