@@ -40,8 +40,15 @@ A interactive visulization tool is provided using d3.js library. Here the steps 
 3. Go to the `localhost:9999` address using your favorite browser (Chrome recommended)
 
 ## Screenshots  
+*Visualization on default settings:*
 ![](screenshots/2.png)  
+  
+*Changing node radius and center gravity:*
 ![](screenshots/4.png)  
+  
+*Using FishEye distortion and highlighting:*
 ![](screenshots/3.png)  
+  
+*A bigger dataset:*
 ![](screenshots/1.png)  
 
