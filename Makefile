@@ -1,32 +1,26 @@
 #Motifs in Biological Networks
 
-PROG = MotifFinder
-SRC_DIR = src
+
+BINARY=motifnet
+SRC_DIR=src
 CXX = g++
-CXXFLAGS += -std=c++11 -Wall -pedantic
+CPPFLAGS = -std=c++11 -MD -MP -Wall -pedantic
 RM = rm -f
 
 
 SRCS=$(wildcard $(SRC_DIR)/*.cpp)
-OBJS=$(subst .cpp,.o, $(SRCS))
+OBJS=$(SRCS:%.cpp=%.o)
+DPNS=$(SRCS:%.cpp=%.d)
 
 
 
-all: $(OBJS)
-	$(CXX) -o ./$(PROG) $(OBJS) $(LDFLAGS)
-	@echo Build successful
+all: main
 
-
-depend: .depend
-
-.depend: $(SRCS)
-	$(RM) ./.depend
-	$(CXX) $(CXXFLAGS) -MM $^>>./.depend;
+main: $(OBJS)
+	$(CXX) $(CPPFLAGS) -o $(BINARY) $^
 
 clean:
-	$(RM) $(OBJS)
+	$(RM) $(OBJS) $(DPNS)
 
-distclean: clean
-	$(RM) *~ .depend
 
-include .depend
+-include $(SRCS:%.cpp=%.d)
