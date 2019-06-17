@@ -1,7 +1,4 @@
 //
-//  DCP.cpp
-//  Code
-//
 //  Copyright © 2017 Nima Sarang. All rights reserved.
 //
 
